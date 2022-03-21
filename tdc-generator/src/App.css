@@ -62,3 +62,8 @@ input {
   outline: none;
   outline-width: 0px;
 }
+
+
+option {
+  font-weight: lighter;
+}
